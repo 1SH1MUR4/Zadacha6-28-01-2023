@@ -11,7 +11,7 @@ if (number % 2 == 0)
     {
         Console.WriteLine(number + " - Четное число: ");
     }
-    else
+else
     {
         Console.WriteLine(number + " - Нечетное число");
     }
